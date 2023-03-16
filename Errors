@@ -1,13 +1,13 @@
 PS C:\Users\AndroidM13> & C:/Users/AndroidM13/AppData/Local/Programs/Python/Python310/python.exe c:/Users/AndroidM13/Desktop/TCIbot/BOILER.py
-2023-03-16 21:30:09.826205: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX
+2023-03-16 22:01:59.222050: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX
 To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
-2023-03-16 21:30:21.887537: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX
+2023-03-16 22:02:12.618783: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX
 To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
-2023-03-16 21:30:21.909474: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX
+2023-03-16 22:02:12.619074: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX
 To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
-2023-03-16 21:30:22.279717: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX
+2023-03-16 22:02:12.622962: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX
 To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
-2023-03-16 21:30:22.351420: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX
+2023-03-16 22:02:12.619074: I tensorflow/core/platform/cpu_feature_guard.cc:193] This TensorFlow binary is optimized with oneAPI Deep Neural Network Library (oneDNN) to use the following CPU instructions in performance-critical operations:  AVX
 To enable them in other operations, rebuild TensorFlow with the appropriate compiler flags.
 Traceback (most recent call last):
   File "c:\Users\AndroidM13\Desktop\TCIbot\BOILER.py", line 81, in <module>
@@ -41,4 +41,4 @@ Traceback (most recent call last):
     if self.n_outputs_expected_ != len(self.model_.outputs):
 TypeError: object of type 'NoneType' has no len()
 
-PS C:\Users\AndroidM13>
+PS C:\Users\AndroidM13> 
