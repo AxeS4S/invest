@@ -9,7 +9,7 @@ from scikeras.wrappers import KerasClassifier
 #from keras.wrappers.scikit_learn import KerasClassifier
 
 # Initialize Binance API client
-client = Client(api_key='ktnfONoDpYYfT9tHPNUcIAprdtfPywoIxTblyFgMXPxHSYV8zAcL8xlvdiIT1pMn', api_secret='962Rf4RBftBsup5PTdTcILyTFRbeZUxmgP1zIggsvfcLdwGDVENgSljXDZuQUZmW')
+client = Client(api_key='api_key', api_secret='api_secret')
 
 # Define parameters
 symbol = 'BTCBUSD'
