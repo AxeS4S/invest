@@ -40,3 +40,5 @@ Traceback (most recent call last):
   File "C:\Users\AndroidM13\AppData\Local\Programs\Python\Python310\lib\site-packages\scikeras\wrappers.py", line 551, in _check_model_compatibility
     if self.n_outputs_expected_ != len(self.model_.outputs):
 TypeError: object of type 'NoneType' has no len()
+
+PS C:\Users\AndroidM13>
